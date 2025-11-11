@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-11T07:26:29.379Z",
-  "totalAssets": 25,
+  "lastUpdated": "2025-11-11T10:04:57.255Z",
+  "totalAssets": 32,
   "baseUrl": "./images/",
   "files": {
     "100MB_2025_10_12_074622414": {
@@ -150,6 +150,13 @@
       "size": 96326,
       "modified": "2025-11-11T00:17:23.126Z"
     },
+    "Mug_blanco_11_on_01": {
+      "filename": "Mug-blanco-11-on_01.webp",
+      "url": "./images/Mug-blanco-11-on_01.webp",
+      "extension": ".webp",
+      "size": 7880,
+      "modified": "2025-11-11T09:50:01.849Z"
+    },
     "VID_20251030_WA0032": {
       "filename": "VID-20251030-WA0032.mp4",
       "url": "./images/VID-20251030-WA0032.mp4",
@@ -177,6 +184,48 @@
       "extension": ".mp4",
       "size": 478952,
       "modified": "2025-11-10T18:19:28.293Z"
+    },
+    "algodon": {
+      "filename": "algodon.jpg",
+      "url": "./images/algodon.jpg",
+      "extension": ".jpg",
+      "size": 117155,
+      "modified": "2025-11-11T10:03:07.011Z"
+    },
+    "mug_sublimado": {
+      "filename": "mug sublimado.png",
+      "url": "./images/mug sublimado.png",
+      "extension": ".png",
+      "size": 287747,
+      "modified": "2025-11-11T09:50:31.538Z"
+    },
+    "pd_damda": {
+      "filename": "pd damda.jpg",
+      "url": "./images/pd damda.jpg",
+      "extension": ".jpg",
+      "size": 96754,
+      "modified": "2025-11-11T09:57:58.706Z"
+    },
+    "pd_sublimada_back": {
+      "filename": "pd sublimada back.jpg",
+      "url": "./images/pd sublimada back.jpg",
+      "extension": ".jpg",
+      "size": 79832,
+      "modified": "2025-11-11T09:55:53.990Z"
+    },
+    "pd_sublimada_frente": {
+      "filename": "pd sublimada frente.jpg",
+      "url": "./images/pd sublimada frente.jpg",
+      "extension": ".jpg",
+      "size": 83973,
+      "modified": "2025-11-11T09:55:19.931Z"
+    },
+    "polo": {
+      "filename": "polo.jpg",
+      "url": "./images/polo.jpg",
+      "extension": ".jpg",
+      "size": 160681,
+      "modified": "2025-11-11T10:00:27.493Z"
     }
   },
   "images": [
@@ -249,6 +298,55 @@
       "extension": ".webp",
       "size": 96326,
       "modified": "2025-11-11T00:17:23.126Z"
+    },
+    {
+      "filename": "Mug-blanco-11-on_01.webp",
+      "url": "./images/Mug-blanco-11-on_01.webp",
+      "extension": ".webp",
+      "size": 7880,
+      "modified": "2025-11-11T09:50:01.849Z"
+    },
+    {
+      "filename": "algodon.jpg",
+      "url": "./images/algodon.jpg",
+      "extension": ".jpg",
+      "size": 117155,
+      "modified": "2025-11-11T10:03:07.011Z"
+    },
+    {
+      "filename": "mug sublimado.png",
+      "url": "./images/mug sublimado.png",
+      "extension": ".png",
+      "size": 287747,
+      "modified": "2025-11-11T09:50:31.538Z"
+    },
+    {
+      "filename": "pd damda.jpg",
+      "url": "./images/pd damda.jpg",
+      "extension": ".jpg",
+      "size": 96754,
+      "modified": "2025-11-11T09:57:58.706Z"
+    },
+    {
+      "filename": "pd sublimada back.jpg",
+      "url": "./images/pd sublimada back.jpg",
+      "extension": ".jpg",
+      "size": 79832,
+      "modified": "2025-11-11T09:55:53.990Z"
+    },
+    {
+      "filename": "pd sublimada frente.jpg",
+      "url": "./images/pd sublimada frente.jpg",
+      "extension": ".jpg",
+      "size": 83973,
+      "modified": "2025-11-11T09:55:19.931Z"
+    },
+    {
+      "filename": "polo.jpg",
+      "url": "./images/polo.jpg",
+      "extension": ".jpg",
+      "size": 160681,
+      "modified": "2025-11-11T10:00:27.493Z"
     }
   ],
   "videos": [
