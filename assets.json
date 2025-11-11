@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-11T07:19:50.976Z",
-  "totalAssets": 26,
+  "lastUpdated": "2025-11-11T07:26:29.379Z",
+  "totalAssets": 25,
   "baseUrl": "./images/",
   "files": {
     "100MB_2025_10_12_074622414": {
@@ -149,13 +149,6 @@
       "extension": ".webp",
       "size": 96326,
       "modified": "2025-11-11T00:17:23.126Z"
-    },
-    "VID_20251030_WA0027": {
-      "filename": "VID-20251030-WA0027.mp4",
-      "url": "./images/VID-20251030-WA0027.mp4",
-      "extension": ".mp4",
-      "size": 3631651,
-      "modified": "2025-11-11T00:07:44.441Z"
     },
     "VID_20251030_WA0032": {
       "filename": "VID-20251030-WA0032.mp4",
@@ -335,13 +328,6 @@
       "extension": ".mp4",
       "size": 67314869,
       "modified": "2025-11-11T00:07:13.519Z"
-    },
-    {
-      "filename": "VID-20251030-WA0027.mp4",
-      "url": "./images/VID-20251030-WA0027.mp4",
-      "extension": ".mp4",
-      "size": 3631651,
-      "modified": "2025-11-11T00:07:44.441Z"
     },
     {
       "filename": "VID-20251030-WA0032.mp4",
