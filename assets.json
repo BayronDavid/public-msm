@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-11T10:04:57.255Z",
-  "totalAssets": 32,
+  "lastUpdated": "2025-11-11T10:38:53.988Z",
+  "totalAssets": 34,
   "baseUrl": "./images/",
   "files": {
     "100MB_2025_10_12_074622414": {
@@ -93,6 +93,13 @@
       "extension": ".mp4",
       "size": 67314869,
       "modified": "2025-11-11T00:07:13.519Z"
+    },
+    "Gorras_malla": {
+      "filename": "Gorras malla.jpg",
+      "url": "./images/Gorras malla.jpg",
+      "extension": ".jpg",
+      "size": 47621,
+      "modified": "2025-11-11T10:29:47.330Z"
     },
     "IMG_20251030_WA0043": {
       "filename": "IMG-20251030-WA0043.webp",
@@ -192,6 +199,13 @@
       "size": 117155,
       "modified": "2025-11-11T10:03:07.011Z"
     },
+    "gorras": {
+      "filename": "gorras.jpg",
+      "url": "./images/gorras.jpg",
+      "extension": ".jpg",
+      "size": 59873,
+      "modified": "2025-11-11T10:31:52.146Z"
+    },
     "mug_sublimado": {
       "filename": "mug sublimado.png",
       "url": "./images/mug sublimado.png",
@@ -242,6 +256,13 @@
       "extension": ".webp",
       "size": 2345940,
       "modified": "2025-11-11T00:17:19.307Z"
+    },
+    {
+      "filename": "Gorras malla.jpg",
+      "url": "./images/Gorras malla.jpg",
+      "extension": ".jpg",
+      "size": 47621,
+      "modified": "2025-11-11T10:29:47.330Z"
     },
     {
       "filename": "IMG-20251030-WA0043.webp",
@@ -312,6 +333,13 @@
       "extension": ".jpg",
       "size": 117155,
       "modified": "2025-11-11T10:03:07.011Z"
+    },
+    {
+      "filename": "gorras.jpg",
+      "url": "./images/gorras.jpg",
+      "extension": ".jpg",
+      "size": 59873,
+      "modified": "2025-11-11T10:31:52.146Z"
     },
     {
       "filename": "mug sublimado.png",
