@@ -1,0 +1,375 @@
+{
+  "lastUpdated": "2025-11-11T07:19:50.976Z",
+  "totalAssets": 26,
+  "baseUrl": "./images/",
+  "files": {
+    "100MB_2025_10_12_074622414": {
+      "filename": "100MB_2025-10-12-074622414.mp4",
+      "url": "./images/100MB_2025-10-12-074622414.mp4",
+      "extension": ".mp4",
+      "size": 10641494,
+      "modified": "2025-11-11T00:52:06.693Z"
+    },
+    "100MB_2025_10_12_074733155": {
+      "filename": "100MB_2025-10-12-074733155.mp4",
+      "url": "./images/100MB_2025-10-12-074733155.mp4",
+      "extension": ".mp4",
+      "size": 19303393,
+      "modified": "2025-11-11T00:52:24.384Z"
+    },
+    "100MB_20251009_221418": {
+      "filename": "100MB_20251009_221418.mp4",
+      "url": "./images/100MB_20251009_221418.mp4",
+      "extension": ".mp4",
+      "size": 36574382,
+      "modified": "2025-11-11T00:57:37.055Z"
+    },
+    "100MB_20251012_162045": {
+      "filename": "100MB_20251012_162045.mp4",
+      "url": "./images/100MB_20251012_162045.mp4",
+      "extension": ".mp4",
+      "size": 20846220,
+      "modified": "2025-11-11T01:02:46.111Z"
+    },
+    "100MB_20251012_165253": {
+      "filename": "100MB_20251012_165253.mp4",
+      "url": "./images/100MB_20251012_165253.mp4",
+      "extension": ".mp4",
+      "size": 23663159,
+      "modified": "2025-11-11T01:06:20.659Z"
+    },
+    "100MB_20251012_182828": {
+      "filename": "100MB_20251012_182828.mp4",
+      "url": "./images/100MB_20251012_182828.mp4",
+      "extension": ".mp4",
+      "size": 35011405,
+      "modified": "2025-11-11T01:13:43.756Z"
+    },
+    "100MB_20251012_193159": {
+      "filename": "100MB_20251012_193159.mp4",
+      "url": "./images/100MB_20251012_193159.mp4",
+      "extension": ".mp4",
+      "size": 44584304,
+      "modified": "2025-11-11T01:19:17.358Z"
+    },
+    "100MB_20251021_180307": {
+      "filename": "100MB_20251021_180307.mp4",
+      "url": "./images/100MB_20251021_180307.mp4",
+      "extension": ".mp4",
+      "size": 7262908,
+      "modified": "2025-11-11T01:19:38.211Z"
+    },
+    "20251012_162045": {
+      "filename": "20251012_162045.mp4",
+      "url": "./images/20251012_162045.mp4",
+      "extension": ".mp4",
+      "size": 60321653,
+      "modified": "2025-11-11T00:12:25.869Z"
+    },
+    "20251022_140005": {
+      "filename": "20251022_140005.mp4",
+      "url": "./images/20251022_140005.mp4",
+      "extension": ".mp4",
+      "size": 93900406,
+      "modified": "2025-11-11T00:10:05.787Z"
+    },
+    "20251022_144239": {
+      "filename": "20251022_144239.webp",
+      "url": "./images/20251022_144239.webp",
+      "extension": ".webp",
+      "size": 1762994,
+      "modified": "2025-11-11T00:17:15.095Z"
+    },
+    "20251022_164847": {
+      "filename": "20251022_164847.webp",
+      "url": "./images/20251022_164847.webp",
+      "extension": ".webp",
+      "size": 2345940,
+      "modified": "2025-11-11T00:17:19.307Z"
+    },
+    "20251023_130332": {
+      "filename": "20251023_130332.mp4",
+      "url": "./images/20251023_130332.mp4",
+      "extension": ".mp4",
+      "size": 67314869,
+      "modified": "2025-11-11T00:07:13.519Z"
+    },
+    "IMG_20251030_WA0043": {
+      "filename": "IMG-20251030-WA0043.webp",
+      "url": "./images/IMG-20251030-WA0043.webp",
+      "extension": ".webp",
+      "size": 421380,
+      "modified": "2025-11-11T00:17:24.044Z"
+    },
+    "IMG_20251031_WA0048": {
+      "filename": "IMG-20251031-WA0048.webp",
+      "url": "./images/IMG-20251031-WA0048.webp",
+      "extension": ".webp",
+      "size": 98714,
+      "modified": "2025-11-11T00:17:24.527Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_08_a_las_23_26_16_47d37b95": {
+      "filename": "Imagen de WhatsApp 2025-11-08 a las 23.26.16_47d37b95.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-08 a las 23.26.16_47d37b95.webp",
+      "extension": ".webp",
+      "size": 196446,
+      "modified": "2025-11-11T00:17:19.923Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_10_a_las_19_01_10_05ec8374": {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.01.10_05ec8374.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.01.10_05ec8374.webp",
+      "extension": ".webp",
+      "size": 76618,
+      "modified": "2025-11-11T00:17:20.489Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_10_a_las_19_02_43_4fb0a74c": {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.43_4fb0a74c.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.43_4fb0a74c.webp",
+      "extension": ".webp",
+      "size": 95462,
+      "modified": "2025-11-11T00:17:21.163Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_10_a_las_19_02_44_71591af6": {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_71591af6.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_71591af6.webp",
+      "extension": ".webp",
+      "size": 134382,
+      "modified": "2025-11-11T00:17:21.770Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_10_a_las_19_02_44_a2b12dbf": {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_a2b12dbf.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_a2b12dbf.webp",
+      "extension": ".webp",
+      "size": 83632,
+      "modified": "2025-11-11T00:17:22.383Z"
+    },
+    "Imagen_de_WhatsApp_2025_11_10_a_las_19_02_44_da714fc1": {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_da714fc1.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_da714fc1.webp",
+      "extension": ".webp",
+      "size": 96326,
+      "modified": "2025-11-11T00:17:23.126Z"
+    },
+    "VID_20251030_WA0027": {
+      "filename": "VID-20251030-WA0027.mp4",
+      "url": "./images/VID-20251030-WA0027.mp4",
+      "extension": ".mp4",
+      "size": 3631651,
+      "modified": "2025-11-11T00:07:44.441Z"
+    },
+    "VID_20251030_WA0032": {
+      "filename": "VID-20251030-WA0032.mp4",
+      "url": "./images/VID-20251030-WA0032.mp4",
+      "extension": ".mp4",
+      "size": 7488820,
+      "modified": "2025-11-11T00:08:19.896Z"
+    },
+    "Video_de_WhatsApp_2025_11_08_a_las_22_48_32_e0efd36f": {
+      "filename": "Video de WhatsApp 2025-11-08 a las 22.48.32_e0efd36f.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-08 a las 22.48.32_e0efd36f.mp4",
+      "extension": ".mp4",
+      "size": 2331818,
+      "modified": "2025-11-09T03:48:32.598Z"
+    },
+    "Video_de_WhatsApp_2025_11_08_a_las_22_53_04_60368146": {
+      "filename": "Video de WhatsApp 2025-11-08 a las 22.53.04_60368146.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-08 a las 22.53.04_60368146.mp4",
+      "extension": ".mp4",
+      "size": 2360862,
+      "modified": "2025-11-09T14:56:33.316Z"
+    },
+    "Video_de_WhatsApp_2025_11_10_a_las_13_19_29_7722cc20": {
+      "filename": "Video de WhatsApp 2025-11-10 a las 13.19.29_7722cc20.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-10 a las 13.19.29_7722cc20.mp4",
+      "extension": ".mp4",
+      "size": 478952,
+      "modified": "2025-11-10T18:19:28.293Z"
+    }
+  },
+  "images": [
+    {
+      "filename": "20251022_144239.webp",
+      "url": "./images/20251022_144239.webp",
+      "extension": ".webp",
+      "size": 1762994,
+      "modified": "2025-11-11T00:17:15.095Z"
+    },
+    {
+      "filename": "20251022_164847.webp",
+      "url": "./images/20251022_164847.webp",
+      "extension": ".webp",
+      "size": 2345940,
+      "modified": "2025-11-11T00:17:19.307Z"
+    },
+    {
+      "filename": "IMG-20251030-WA0043.webp",
+      "url": "./images/IMG-20251030-WA0043.webp",
+      "extension": ".webp",
+      "size": 421380,
+      "modified": "2025-11-11T00:17:24.044Z"
+    },
+    {
+      "filename": "IMG-20251031-WA0048.webp",
+      "url": "./images/IMG-20251031-WA0048.webp",
+      "extension": ".webp",
+      "size": 98714,
+      "modified": "2025-11-11T00:17:24.527Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-08 a las 23.26.16_47d37b95.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-08 a las 23.26.16_47d37b95.webp",
+      "extension": ".webp",
+      "size": 196446,
+      "modified": "2025-11-11T00:17:19.923Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.01.10_05ec8374.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.01.10_05ec8374.webp",
+      "extension": ".webp",
+      "size": 76618,
+      "modified": "2025-11-11T00:17:20.489Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.43_4fb0a74c.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.43_4fb0a74c.webp",
+      "extension": ".webp",
+      "size": 95462,
+      "modified": "2025-11-11T00:17:21.163Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_71591af6.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_71591af6.webp",
+      "extension": ".webp",
+      "size": 134382,
+      "modified": "2025-11-11T00:17:21.770Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_a2b12dbf.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_a2b12dbf.webp",
+      "extension": ".webp",
+      "size": 83632,
+      "modified": "2025-11-11T00:17:22.383Z"
+    },
+    {
+      "filename": "Imagen de WhatsApp 2025-11-10 a las 19.02.44_da714fc1.webp",
+      "url": "./images/Imagen de WhatsApp 2025-11-10 a las 19.02.44_da714fc1.webp",
+      "extension": ".webp",
+      "size": 96326,
+      "modified": "2025-11-11T00:17:23.126Z"
+    }
+  ],
+  "videos": [
+    {
+      "filename": "100MB_2025-10-12-074622414.mp4",
+      "url": "./images/100MB_2025-10-12-074622414.mp4",
+      "extension": ".mp4",
+      "size": 10641494,
+      "modified": "2025-11-11T00:52:06.693Z"
+    },
+    {
+      "filename": "100MB_2025-10-12-074733155.mp4",
+      "url": "./images/100MB_2025-10-12-074733155.mp4",
+      "extension": ".mp4",
+      "size": 19303393,
+      "modified": "2025-11-11T00:52:24.384Z"
+    },
+    {
+      "filename": "100MB_20251009_221418.mp4",
+      "url": "./images/100MB_20251009_221418.mp4",
+      "extension": ".mp4",
+      "size": 36574382,
+      "modified": "2025-11-11T00:57:37.055Z"
+    },
+    {
+      "filename": "100MB_20251012_162045.mp4",
+      "url": "./images/100MB_20251012_162045.mp4",
+      "extension": ".mp4",
+      "size": 20846220,
+      "modified": "2025-11-11T01:02:46.111Z"
+    },
+    {
+      "filename": "100MB_20251012_165253.mp4",
+      "url": "./images/100MB_20251012_165253.mp4",
+      "extension": ".mp4",
+      "size": 23663159,
+      "modified": "2025-11-11T01:06:20.659Z"
+    },
+    {
+      "filename": "100MB_20251012_182828.mp4",
+      "url": "./images/100MB_20251012_182828.mp4",
+      "extension": ".mp4",
+      "size": 35011405,
+      "modified": "2025-11-11T01:13:43.756Z"
+    },
+    {
+      "filename": "100MB_20251012_193159.mp4",
+      "url": "./images/100MB_20251012_193159.mp4",
+      "extension": ".mp4",
+      "size": 44584304,
+      "modified": "2025-11-11T01:19:17.358Z"
+    },
+    {
+      "filename": "100MB_20251021_180307.mp4",
+      "url": "./images/100MB_20251021_180307.mp4",
+      "extension": ".mp4",
+      "size": 7262908,
+      "modified": "2025-11-11T01:19:38.211Z"
+    },
+    {
+      "filename": "20251012_162045.mp4",
+      "url": "./images/20251012_162045.mp4",
+      "extension": ".mp4",
+      "size": 60321653,
+      "modified": "2025-11-11T00:12:25.869Z"
+    },
+    {
+      "filename": "20251022_140005.mp4",
+      "url": "./images/20251022_140005.mp4",
+      "extension": ".mp4",
+      "size": 93900406,
+      "modified": "2025-11-11T00:10:05.787Z"
+    },
+    {
+      "filename": "20251023_130332.mp4",
+      "url": "./images/20251023_130332.mp4",
+      "extension": ".mp4",
+      "size": 67314869,
+      "modified": "2025-11-11T00:07:13.519Z"
+    },
+    {
+      "filename": "VID-20251030-WA0027.mp4",
+      "url": "./images/VID-20251030-WA0027.mp4",
+      "extension": ".mp4",
+      "size": 3631651,
+      "modified": "2025-11-11T00:07:44.441Z"
+    },
+    {
+      "filename": "VID-20251030-WA0032.mp4",
+      "url": "./images/VID-20251030-WA0032.mp4",
+      "extension": ".mp4",
+      "size": 7488820,
+      "modified": "2025-11-11T00:08:19.896Z"
+    },
+    {
+      "filename": "Video de WhatsApp 2025-11-08 a las 22.48.32_e0efd36f.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-08 a las 22.48.32_e0efd36f.mp4",
+      "extension": ".mp4",
+      "size": 2331818,
+      "modified": "2025-11-09T03:48:32.598Z"
+    },
+    {
+      "filename": "Video de WhatsApp 2025-11-08 a las 22.53.04_60368146.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-08 a las 22.53.04_60368146.mp4",
+      "extension": ".mp4",
+      "size": 2360862,
+      "modified": "2025-11-09T14:56:33.316Z"
+    },
+    {
+      "filename": "Video de WhatsApp 2025-11-10 a las 13.19.29_7722cc20.mp4",
+      "url": "./images/Video de WhatsApp 2025-11-10 a las 13.19.29_7722cc20.mp4",
+      "extension": ".mp4",
+      "size": 478952,
+      "modified": "2025-11-10T18:19:28.293Z"
+    }
+  ]
+}
